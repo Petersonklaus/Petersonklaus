@@ -3,8 +3,7 @@
 - 👋 Ola eu sou o Petersonklaus
 - 👀 Email:peterson.klaus@escola.pr.gov.br
 - 🌱 Aula:Pensamento Computacional
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Aprendendo a Progamar
 
 <!---
 Petersonklaus/Petersonklaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
